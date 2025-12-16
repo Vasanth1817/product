@@ -115,7 +115,7 @@ function Product() {
       <header className="bg-blue-400 flex dark:bg-black dark:text-white justify-between h-12 items-center sticky top-0 z-50 px-2">
         <div className="flex items-center  gap-x-4">
             <MenuIcon></MenuIcon>
-            <p className="font-bold text-xl">Product</p>
+            <p className="font-bold text-xl">Products</p>
          
         </div>
         <div className="flex gap-x-4">
